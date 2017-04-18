@@ -133,3 +133,8 @@ Below are the plots you get from the above code, using Flot as the output format
 
 * **Andrew Sendonaris** - [sendos](https://github.com/sendos)
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
