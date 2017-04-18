@@ -123,6 +123,12 @@ else:
     error('Invalid value for output')
 ```
 
+### Sample output
+Below are the plots you get from the above code
+<img src="https://cloud.githubusercontent.com/assets/1019930/25148414/bc1038a8-2472-11e7-9b13-283fcbcc9eb5.PNG" height="400px">
+<img src="https://cloud.githubusercontent.com/assets/1019930/25148412/bc0d9daa-2472-11e7-8953-1867596f619f.PNG" height="400px">
+<img src="https://cloud.githubusercontent.com/assets/1019930/25148413/bc0f99fc-2472-11e7-960a-6d9bad85986a.PNG" height="400px">
+
 ## Authors
 
 * **Andrew Sendonaris** - [sendos](https://github.com/sendos)
