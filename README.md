@@ -77,8 +77,8 @@ for Is in mrange[1:5]:
     hold('on')
 grid('on')
 legend('Bob','Mike','Mary','Joanne','Will', 'Location','northwest')
-xlabel(sprintf('This is the xlabel text'))
-ylabel(sprintf('This is the ylabel text'))
+xlabel('This is the xlabel text')
+ylabel('This is the ylabel text')
 title('The title of the plot')
 
     
@@ -124,7 +124,7 @@ else:
 ```
 
 ### Sample output
-Below are the plots you get from the above code
+Below are the plots you get from the above code, using Flot as the output format.
 <img src="https://cloud.githubusercontent.com/assets/1019930/25148414/bc1038a8-2472-11e7-9b13-283fcbcc9eb5.PNG" height="400px">
 <img src="https://cloud.githubusercontent.com/assets/1019930/25148412/bc0d9daa-2472-11e7-8953-1867596f619f.PNG" height="400px">
 <img src="https://cloud.githubusercontent.com/assets/1019930/25148413/bc0f99fc-2472-11e7-960a-6d9bad85986a.PNG" height="400px">
