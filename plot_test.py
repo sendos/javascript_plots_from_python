@@ -52,7 +52,7 @@ legend('X','Y')
 title('Some data')
 xlabel('Time')
 
-# To visualize the plotss, uncomment one of the following output options
+# To visualize the plots, uncomment one of the following output options
 output = 'flot'
 # output = 'NVD3'
 # output = 'matplotlib'
